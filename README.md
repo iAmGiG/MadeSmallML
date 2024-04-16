@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed:
 Clone the repository and set up the Conda environment:
 
 ```bash
-git clone https://github.com/yourusername/madesmallml.git
+git clone https://github.com/iAmGiG/madesmallml.git
 cd madesmallml
 conda create -n madesmallml python=3.9
 conda activate madesmallml
